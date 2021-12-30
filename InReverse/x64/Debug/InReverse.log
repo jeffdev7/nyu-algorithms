@@ -1,0 +1,3 @@
+﻿  InReverse.cpp
+C:\Users\Jefferson\Documents\NYU.App\InReverse\InReverse.cpp(20,3): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  InReverse.vcxproj -> C:\Users\Jefferson\Documents\NYU.App\x64\Debug\InReverse.exe

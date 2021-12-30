@@ -1,0 +1,4 @@
+﻿  ArrayAverage.cpp
+C:\Users\Jefferson\Documents\NYU.App\ArrayAverage\ArrayAverage.cpp(11,22): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Jefferson\Documents\NYU.App\ArrayAverage\ArrayAverage.cpp(12,12): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  ArrayAverage.vcxproj -> C:\Users\Jefferson\Documents\NYU.App\x64\Debug\ArrayAverage.exe

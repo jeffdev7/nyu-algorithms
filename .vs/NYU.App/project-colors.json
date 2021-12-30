@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "164d9d77-cc4e-46f8-a50d-4e87bad149f7": {
+      "ProjectGuid": "164d9d77-cc4e-46f8-a50d-4e87bad149f7",
+      "DisplayName": "NYU.App",
+      "ColorIndex": 0
+    },
+    "7b2de59c-957c-4e18-a601-8c216f563c40": {
+      "ProjectGuid": "7b2de59c-957c-4e18-a601-8c216f563c40",
+      "DisplayName": "ArrayAverage",
+      "ColorIndex": 1
+    },
+    "25382188-e50d-4dd2-a59e-5b2066839a34": {
+      "ProjectGuid": "25382188-e50d-4dd2-a59e-5b2066839a34",
+      "DisplayName": "BMI",
+      "ColorIndex": 2
+    },
+    "f833619e-93ea-4a5b-b9b4-9668b045ed60": {
+      "ProjectGuid": "f833619e-93ea-4a5b-b9b4-9668b045ed60",
+      "DisplayName": "LeapYear",
+      "ColorIndex": 3
+    },
+    "c56a1857-87b9-4299-bce8-4e0ed32a347c": {
+      "ProjectGuid": "c56a1857-87b9-4299-bce8-4e0ed32a347c",
+      "DisplayName": "MaxValueInArray",
+      "ColorIndex": 4
+    },
+    "ef208236-a0b9-4e0f-afaa-bdff73ca536b": {
+      "ProjectGuid": "ef208236-a0b9-4e0f-afaa-bdff73ca536b",
+      "DisplayName": "InReverse",
+      "ColorIndex": 5
+    },
+    "ace26bb2-a303-47d5-80b3-0ea0fb8b081d": {
+      "ProjectGuid": "ace26bb2-a303-47d5-80b3-0ea0fb8b081d",
+      "DisplayName": "RemainingWords",
+      "ColorIndex": 6
+    },
+    "4267c47e-7994-433d-b192-7f7c78548f2c": {
+      "ProjectGuid": "4267c47e-7994-433d-b192-7f7c78548f2c",
+      "DisplayName": "FirstWord",
+      "ColorIndex": 7
+    },
+    "902692c5-650d-4386-87a9-f247e2c96514": {
+      "ProjectGuid": "902692c5-650d-4386-87a9-f247e2c96514",
+      "DisplayName": "StringsSplitter",
+      "ColorIndex": 8
+    },
+    "1ad0ee6c-f54d-4510-bb12-5c4c1d0e524b": {
+      "ProjectGuid": "1ad0ee6c-f54d-4510-bb12-5c4c1d0e524b",
+      "DisplayName": "Swapping",
+      "ColorIndex": 9
+    },
+    "b6ad952b-cea0-4203-a384-6454461fe0aa": {
+      "ProjectGuid": "b6ad952b-cea0-4203-a384-6454461fe0aa",
+      "DisplayName": "AnalyzeDigits",
+      "ColorIndex": 10
+    }
+  },
+  "NextColorIndex": 11
+}
